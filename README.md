@@ -50,7 +50,7 @@ Bug tracker
 
 Please report all issues on the repo's Issue Tracker. Remember to provide as much information as possible regarding the bug/issue you are reporting so a patch can be released.
 
-**Report theme bugs** [https://github.com/greenhouse47/greenblack/issues](https://github.com/greenzone/greencircle/issues)
+**Report theme bugs** [https://github.com/greenzone/greencircle/issues](https://github.com/greenzone/greencircle/issues)
 
 
 ##v.1.0.0 of Greenblack ##
@@ -206,7 +206,6 @@ Follow Development on Our Social Network
 
 **Development Tim - Greenzone**
 
-+ http://twitter.com/hmi_online
 + https://github.com/greenzone/
 
 
